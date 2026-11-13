@@ -192,7 +192,7 @@ Open the local address displayed by Streamlit, usually `http://localhost:8501`.
 
 ### Version 1 — Gameplay
 
-![Version 1 Gameplay](docs/screenshots/version1_gameplay.png)
+![Version 1 Gameplay](docs/screenshots/version1_success.png)
 
 ### Version 1 — Comparison Tests
 
