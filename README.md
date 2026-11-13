@@ -196,19 +196,25 @@ Open the local address displayed by Streamlit, usually `http://localhost:8501`.
 
 ### Version 1 — Comparison Tests
 
-![Version 1 Tests](docs/screenshots/version1_tests.png)
+![Version 1 Tests](docs/screenshots/version1_comparision1.png)
+
+![Version 1 Tests](docs/screenshots/version1_comparision2.png)
+
+![Version 1 Tests](docs/screenshots/version1_comparision3.png)
 
 ### Version 2 — Gameplay
 
-![Version 2 Gameplay](docs/screenshots/version2_gameplay.png)
+![Version 2 Gameplay](docs/screenshots/version2_success.png)
 
 ### Version 2 — Comparison Tests
 
-![Version 2 Tests](docs/screenshots/version2_tests.png)
+![Version 2 Tests](docs/screenshots/version2_comparision1.png)
+
+![Version 2 Tests](docs/screenshots/version2_comparision2.png)
 
 ### Automated Testing Results
 
-![Pytest Results](docs/screenshots/pytest_results.png)
+![Pytest Results](docs/screenshots/Automated Testing Results.png)
 
 ### Version 2 — Successful Escape
 
