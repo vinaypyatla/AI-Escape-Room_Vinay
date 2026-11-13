@@ -214,7 +214,7 @@ Open the local address displayed by Streamlit, usually `http://localhost:8501`.
 
 ### Automated Testing Results
 
-![Pytest Results](docs/screenshots/Automated Testing Results.png)
+![Automated Testing Results](docs/screenshots/Automated%20Testing%20Results.png)
 
 ### Version 2 — Successful Escape
 
