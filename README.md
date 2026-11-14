@@ -224,11 +224,11 @@ Open the local address displayed by Streamlit, usually `http://localhost:8501`.
 
 ### Version 1
 
-![Version 1 Architecture](docs/architecture_version1.png)
+![Version 1 Architecture](downloads/architecture_version1.png)
 
 ### Version 2
 
-![Version 1 Architecture](docs/architecture_version2.png)
+![Version 1 Architecture](downloads/architecture_version2.png)
 
 ## 📄 Project Documentation
 
