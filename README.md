@@ -7,6 +7,32 @@
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini%20AI-4285F4)
 ![Pytest](https://img.shields.io/badge/Testing-Pytest-green)
 
+
+## 🎮 Play the AI Escape Room
+
+Experience two implementations of an AI-powered escape room.
+
+### 🔐 Version 1 — AI-Controlled Game
+**[Play Version 1](https://ai-escape-room-vinay-v1.streamlit.app)**
+
+Gemini acts as the Game Master, controlling puzzle progression,
+narration, and scoring milestones.
+
+### 🛡️ Version 2 — Python-Controlled Game
+**[Play Version 2](https://ai-escape-room-vinay-v2.streamlit.app)**
+
+Python validates player actions, manages inventory, and tracks
+puzzle progress. Gemini provides atmospheric narration.
+
+### 🏆 Features
+- Interactive library escape room
+- Five scoring milestones worth 100 points
+- Dark mystery theme and animations
+- Inventory and puzzle progress tracking
+- Gemini-powered storytelling
+- Two architectures for comparing AI reliability
+
+
 ## 📖 Project Overview
 
 AI Escape Room is an interactive, text-based puzzle game set inside a mysterious locked library.
