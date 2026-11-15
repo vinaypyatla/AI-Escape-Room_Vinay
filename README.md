@@ -226,8 +226,6 @@ Open the local address displayed by Streamlit, usually `http://localhost:8501`.
 
 ![Version 1 Tests](docs/screenshots/version1_comparision2.png)
 
-![Version 1 Tests](docs/screenshots/version1_comparision3.png)
-
 ### Version 2 — Gameplay
 
 ![Version 2 Gameplay](docs/screenshots/version2_success.png)
@@ -237,6 +235,9 @@ Open the local address displayed by Streamlit, usually `http://localhost:8501`.
 ![Version 2 Tests](docs/screenshots/version2_comparision1.png)
 
 ![Version 2 Tests](docs/screenshots/version2_comparision2.png)
+
+![Version 2 Tests](docs/screenshots/version2_comparision3.png)
+
 
 ### Automated Testing Results
 
